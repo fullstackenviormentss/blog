@@ -1,17 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Nex's Blog</title>
+<title>{% if title %}{{title}} - {% endif %}Nex's Blog</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic' rel='stylesheet' type='text/css'>
 <link href="feed.xml" rel="alternate" type="application/rss+xml" title="Blog" />
 <style>
 body {
     font-family: Open Sans;
+<<<<<<< HEAD
     background-color: #f3f3f3;
     font-size: 16px;
+=======
+    background-color: #e1e1e1;
+    font-size: 14px;
+}
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 18px;
+>>>>>>> 162271c5f24da3076eea5aff533a777c334ca7b9
 }
 h1, h2, h3, h4 {
     font-family: Yanone Kaffeesatz;
@@ -21,22 +34,31 @@ h1, h2, h3, h4 {
 }
 .footer {
     margin-top: 50px;
+<<<<<<< HEAD
     font-size: 14px;
+=======
+    font-size: 12px;
+>>>>>>> 162271c5f24da3076eea5aff533a777c334ca7b9
     text-align: center;
 }
 pre {
     white-space: pre-wrap;
     color: #505050;
 }
+.light {
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 </style>
 </head>
 <body>
 <div class="container">
-    <div class="hero-unit faq">
-        <div class="ac" style="text-align: center;">
-            <h1>Nex's Blog</h1>
-            <a href="index.html">Home</a> &bull; <a href="https://nex.sx">About</a>
-        </div>
+    <div class="jumbotron">
+        <a href="https://nex.sx/blog/"><img src="https://nex.sx/nex.png" alt="Nex's Blog" width="100px" /></a>
+        <div style="margin-top: 15px;"><a href="index.html">Home</a> &bull; <a href="https://nex.sx">About</a> &bull; <a href="feed.xml">Feed</a></div>
     </div>
     {% block content %}{% endblock %}
 </div>

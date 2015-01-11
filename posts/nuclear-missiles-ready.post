@@ -1,0 +1,47 @@
+Title: Sony Hack, North Korea &amp; Dangerous Politics
+Slug: nuclear-missiles-ready
+Date: 2014-12-20 03:30:00
+Author: <a href="https://twitter.com/botherder">nex</a>
+
+Wow. Despite having initially promised myself to ignore it, the Sony affair just got too entertaining for me to not comment about it.
+
+In case you missed out on recent news, [Sony Pictures got hacked][wiki], the attackers - allegedly of North Korean origin - stole terabytes of data, literally wiped Sony's ass, and ransomed them. Sony panicked, _The Interview_ - believed to be the motivation for the attack - has been pulled, the FBI started an investigation and now even the White House intervened on the matter.
+
+Personal contacts of mine also confirmed me the strong suspicion of the attack being of North Korean origin, but while I'm generally an advocate for attribution and for calling things for what they are, doing it for this case doesn't really interest me.
+
+It is true, the scale of this attack and the amount of damage is probably unprecedented - I'm actually unsure, but certainly this deserves the award for the most epic pwn of the year - and that the attackers were very resolute in their intentions. It is incredible to see not just Sony, but Hollywood as a whole react with precaution and fear as a result of this incident: theaters refuse to screen the film, Sony is pulling it and other studios are reconsidering some projects. For what it's worth, I find the concern for the safety of theaters to be laughable.
+
+<h3 class="light">What I find much less laughable is the political reaction.</h3>
+
+It isn't uncommon for FBI, USSS or other authorities to intervene when a private company is a victim of a serious attack, but we're seeing a remarkable shift here. FBI and the Obama administration are going as far as to declare attribution and point the finger at a foreign adversarial government. That was unheard of before.
+
+While the attribution to North Korea has been rumoured since basically the beginning - how couldn't it, when Sony was messing with Kim Jong-un  - taking a clear stand at an institutional level and announcing retribution and potential offensive responses is a whole different matter. In its [press release][fbi], the FBI clearly states: _"as a result of our investigation, and in close collaboration with other U.S. government departments and agencies, the FBI now has enough information to conclude that the North Korean government is responsible for these actions."_
+
+Don't get me wrong, I'm not saying that some North Korean actor wasn't behind it, but I want to analyze this matter with a cynical eye.
+
+The attribution from the FBI is completely unsubstantiated. Making accusations of this kind from official authorities triggering the political reaction we've seen isn't something to underestimate. Obama is now threatening for a reaction of some kind, but the public - especially the American public I suppose - isn't even provided with any significant evidence. This stupid rethoric of "protecting sources and methods" should stop, it is becoming a redudant fable. On the other side, US-CERT almost at the same time [released a decent amount of technical information][cert] on the hack without actually mentioning Sony let alone the attribution to North Korea. Bizarre, isn't it?
+
+It isn't just for groundless wars, lies on domestic and foreign spying, lies on war crimes and torture, but concretely on what basis should we accept what the US government concluded and blindly accept whatever reaction they might have planned for it? Frankly I don't genuinely think that the political back and forth could go out of hand as much to cause more distress on international geopolitics than what we already had. Obama addressed the Sony hack in his end-of-year speech and large part of the media focused on the threatening announcement that the [US will look for a proportionate response to the attack][bbc]. What does that even mean? What would be proportionate? I could imagine that if US would wipe as many North Korean computers as Sony Pictures lost, they would probably shut down the whole nation. Bazinga.
+
+<h3 class="light">What I'm truthfully more concerned about is the possibility of manipulation of this incident for domestic political and legislative interests within the United States.</h3>
+
+At the beginning of this incident I was mostly amused - come on, there was a decent degree of lulz with this hack - but now I'm getting increasingly amazed.
+Was this verbosity by the US government prompted by corporate interests? The Pirate Bay and Megaupload cases showed us very well how influencing Hollywood can be on US government and law enforcement.
+
+Or did Washington see this as an opportunity to strike another blow to North Korea and at the same time promote their "cybersecurity" agenda through the usual fearmongering? Might very well be. Intelligence agencies and the security industry, without any doubt among the biggest government contractors, would profit a lot from additional public spending thrown in their directions. The security industry probably did want an heavy involvement of the US government in this case. I don't think these incidents ever cause a significant blowback for an industry when is found unprepared, but shifting the attention from the shortcomings of a multi-billion dollars market to a major political scandal definitely helps. Sony certainly wanted the same to deflect the attention from their incompetence.
+
+In the same end-of-year speech, Obama also asked for a timely introduction of a "cyber-bill". That's what got me to shiver and that's what we should scrutinize.
+
+It is needless to explain why and how damaging events are often exploited for political and economic agendas. Terrorist attacks are exploited to influence the public opinion into pursueing ridiculous conflicts purely for economic and geopolitical advantage. Computer attacks are exploited to influence policy makers into introducing draconian regulations to increase the control of the Internet and of technology in general.
+
+It's a dangerous rethoric. For so many reasons. Besides the inherent dangers in this ongoing attempt at fully militarizing the Internet, using these incidents to establish legal or political precedents might intentionally or unintentionally cause serious collateral damage. Generally speaking, I find that additional regulation prompted by events of this type are more likely to bring crackdowns on citizens' liberties rather than "proportional responses" against alleged adversaries. The key is to prevent the public from getting blindfolded with fearmongering bullshit.
+
+It's great to hear that [Obama thinks they haven't done enough to close vulnerabilities][abc] in computer systems, but I find that quite hilarious. Perhaps a start should be to cut the ridiculous budgets of intelligence agencies committed in destroying and subverting computer systems in the first place. Secondly, we should reconsider the fundamental role and size of the security market, when times and times again vendors are caught with their pants down. I see a growing imbalance that needs to be addressed.
+
+Obama, start supporting more the builders of open source secure technology instead of the defense and military complex. We'll all be better off.
+
+[wiki]: http://en.wikipedia.org/wiki/Sony_Pictures_Entertainment_hack
+[fbi]: http://www.fbi.gov/news/pressrel/press-releases/update-on-sony-investigation
+[cert]: https://www.us-cert.gov/ncas/alerts/TA14-353A
+[bbc]: http://www.bbc.com/news/world-us-canada-30555997
+[abc]: http://abcnews.go.com/Politics/obama-sony-hack-proves-us-lot-protect-cyber/story?id=27676765
