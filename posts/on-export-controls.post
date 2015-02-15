@@ -40,7 +40,7 @@ As a matter of fact, it is still not clear to me whether that's the case. I had 
 
 - The regulation must in no way affect the free flow of security research done in the public interest, especially when provided to the public.
 
-- The regulation must in no way prevent security researchers from reporting vulnerabilities to bug bounties, directly to the vendors or through other intermediaries. The process of researching, discovering and disclosing software vulnerabilities is sacred to the improvements of our systems, and must therefore be preserved and protected. As [Chris Evans put it](https://twitter.com/scarybeasts/status/536257476023578624), "regulate those who massively profit from putting others at risk" instead.
+- The regulation must in no way prevent security researchers from reporting vulnerabilities to bug bounties, directly to the vendors or through other intermediaries. The process of researching, discovering and disclosing software vulnerabilities is sacred to the improvements of our systems, and must therefore be preserved and protected. As [Chris Evans put it](https://twitter.com/scarybeasts/status/536257476023578624), "*regulate those who massively profit from putting others at risk*" instead.
 
 - The regulation must in no way affect the distribution of software, including commercial, that is intended for security testing, auditing and defense purposes. I'm hopeful there are ways to define semantic differences between security products and surveillance services.
 
